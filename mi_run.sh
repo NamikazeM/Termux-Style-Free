@@ -1,9 +1,8 @@
 #! /usr/bin/bash
 
-## Facebook : fb.com/InferiorAK
-## Github   : github.com/InferiorAK
-## Twitter  : twitter.com/@InferiorAK
-## Youtube  : youtube.com/@InferiorAK
+## Github   : github.com/NamikazeM
+## Instagram  : https://instagram.com/ramzjebeh
+## Youtube  : youtube.com/@ryudesigner
 ## 1st Release: 05-05-2023
 
 . main/cols.sh
