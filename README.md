@@ -1,4 +1,4 @@
-# Mi-TermBuild
+# Termux-Style
 <b>It's a Termux Optimized tool that can make your Termux more Precious and easier to Use</b>
 
 <img align="center" src="assets/banner.JPG">
@@ -52,9 +52,9 @@
     Tool    ::: Ｍｉ-ＴｅｒｍＢｕｉｌｄ
 
     Author   : InferiorAK
-    Github   : github.com/InferiorAK
-    Facebook : facebook.com/InferiorAK
-    Youtube  : youtube.com/@inferiorak
+    Github   : github.com/NamikazeM
+    Instagram : instagram.com/@ramzjebeh
+    Youtube  : youtube.com/@ryudesigner
     Version  : 1.0
 
 
